@@ -64,13 +64,4 @@ public class CalcerTest {
     public void testDistance() {
         assertEquals(18, new Calcer(12, 14).distance());
     }
-
-    @Test
-    public void testFunc2a2bv1() {
-        assertEquals(0, new Calcer(0, 0).func2a2b());
-    }
-    @Test
-    public void testFunc2a2bv2() {
-        assertEquals(6, new Calcer(1, 2).func2a2b());
-    }
 }
