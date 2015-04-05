@@ -47,6 +47,9 @@ public class Calcer {
 		// результат округляется до целого (int) Math.sqrt(a*a+b*b);
 		return 0;
 	}
+        public int func2a2b(){
+            return 2*a+2*b;
+        }
 
 	public static void main(String[] args) {
             System.out.println(new Calcer(1,2).add());
