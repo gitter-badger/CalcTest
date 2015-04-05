@@ -1,4 +1,4 @@
-﻿package calcer;
+package calcer;
 
 public class Calcer {
 	private int a;
@@ -14,7 +14,7 @@ public class Calcer {
 	}
 
 	public int subtract() {// отнимает от первого числа второе
-		return a-b;.....
+		return a-b;
 	}
 
 	public int mult() {// перемножает два числа
@@ -27,7 +27,7 @@ public class Calcer {
 	}
 
 	public int power() {// возводит a в степень b
-		return Math.pow(a,b); // ай - яй. Это Math детка!
+		return (int) Math.pow(a,b); // ай - яй. Это Math детка!
 	}
 
 	public int min() {// возвращает минимальное из двух чисел
