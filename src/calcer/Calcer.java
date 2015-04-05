@@ -23,7 +23,7 @@ public class Calcer {
 
 	public int divide() {// считает a/b
 		// результат округляется до целого
-		return 0;
+		return (int) a/b;
 	}
 
 	public int power() {// возводит a в степень b
