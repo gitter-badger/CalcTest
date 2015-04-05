@@ -14,7 +14,7 @@ public class Calcer {
 	}
 
 	public int subtract() {// отнимает от первого числа второе
-		return 0;
+		return a-b;.....
 	}
 
 	public int mult() {// перемножает два числа
