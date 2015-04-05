@@ -1,4 +1,4 @@
-package calcer;
+﻿package calcer;
 
 public class Calcer {
 	private int a;
@@ -27,7 +27,7 @@ public class Calcer {
 	}
 
 	public int power() {// возводит a в степень b
-		return 0;
+		return Math.pow(a,b);
 	}
 
 	public int min() {// возвращает минимальное из двух чисел
