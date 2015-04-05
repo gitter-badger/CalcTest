@@ -18,7 +18,7 @@ public class Calcer {
 	}
 
 	public int mult() {// перемножает два числа
-		return 0;
+		return a * b;
 	}
 
 	public int divide() {// считает a/b
