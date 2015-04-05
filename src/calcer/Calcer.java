@@ -10,7 +10,7 @@ public class Calcer {
 	}
 
 	public int add() {// вычисляет сумму двух чисел
-		return a+b;
+		return a+b;......
 	}
 
 	public int subtract() {// отнимает от первого числа второе
