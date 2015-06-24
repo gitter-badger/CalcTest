@@ -1,5 +1,7 @@
 # README about jcrf #
 
+[![Join the chat at https://gitter.im/veitsi/CalcTest](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veitsi/CalcTest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
